@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../sensor-suhu-kelembaban"
+		},
+		{
+			"name": "latihanESP32SensorSuhuKelembaban",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
