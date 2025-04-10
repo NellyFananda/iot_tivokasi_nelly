@@ -1,5 +1,4 @@
 #include <Arduino.h>
-
 int red = 13;
 int yellow = 14;
 int green = 26;
