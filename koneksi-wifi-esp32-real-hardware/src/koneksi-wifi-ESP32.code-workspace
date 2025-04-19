@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../Minggu8/koneksi-wifi-ESP32"
+		},
+		{
+			"name": "koneksi-wifi-esp32-real-hardware",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
