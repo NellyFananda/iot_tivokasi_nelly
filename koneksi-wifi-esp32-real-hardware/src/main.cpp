@@ -8,7 +8,6 @@
 
 DHT dht(DHTPIN, DHTTYPE);
 
-
 // Ganti dengan kredensial WiFi Anda
 const char* ssid = "tukang_misoh";
 const char* password = "987654321";
